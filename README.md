@@ -8,10 +8,10 @@
  3. Users can search for movies and provide star ratings and get movie recommendations on the basis of the ratings.
 
 ## Recommendation Engine
-**Collaborative Filtering**
+**Collaborative Filtering:**
 The primary recommendation technique that is used in the website is Collaborative Filtering. This technique uses similarities between users and items simultaneously to provide recommendations. The recommendation system is based on explicit feedback from the user, i.e the user specifies how much they like the movie by providing star ratings.
 
-**Pearson Coefficient Correlation**
+**Pearson Coefficient Correlation:**
 Pearson Coefficient correlation is used to calculate the similarity between the users and the items, i.e the movies. The Pearson correlation measures the strength of the linear relationship between two variables. It has a value between -1 to 1, with a value of -1 meaning a total negative linear correlation, 0 being no correlation, and + 1 meaning a total positive correlation.
 
 ## How to Run
