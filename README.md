@@ -36,8 +36,6 @@ Backend - NodeJS\
 ML Model - Python\
 API - TMDb API
 
-## Demo Video
-https://drive.google.com/file/d/1y87xc7Io8HUuMK9gq551HwQW2qgwLptp/view?usp=sharing
 
 
 
