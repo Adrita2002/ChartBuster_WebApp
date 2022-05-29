@@ -32,7 +32,7 @@ Pearson Coefficient correlation is used to calculate the similarity between the 
 
 ## Tech Stack
 Frontend - ReactJS\
-Backend - NodeJS\
+Backend - NodeJS, Express\
 ML Model - Python\
 API - TMDb API
 
