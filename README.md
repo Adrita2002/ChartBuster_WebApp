@@ -21,6 +21,7 @@ Pearson Coefficient correlation is used to calculate the similarity between the 
 4. Run the command - `npm install`
 5. API Key:
   For using the api of TMDB, we need an API. The API key can be generated from here. 
+  \
   Documentation to generate  TMDB API Key: https://developers.themoviedb.org/3/getting-started/introduction
   \
   Once generated, a .env file is to be created inside the client folder and add an environment variable with the name. REACT_APP_API_KEY and use the api key there     (The API key is required in the Components/Pages/Movies/Movies.js and Components/Pages/Trending/Trending.js in the ‘src’ folder)
@@ -30,9 +31,9 @@ Pearson Coefficient correlation is used to calculate the similarity between the 
 9. Start the server - `node server.js`
 
 ## Tech Stack
-Frontend - ReactJS
-Backend - NodeJS
-ML Model - Python
+Frontend - ReactJS\
+Backend - NodeJS\
+ML Model - Python\
 API - TMDb API
 
 ## Demo Video
