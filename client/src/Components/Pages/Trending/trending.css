@@ -1,0 +1,14 @@
+.trendList{
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+
+.heading{
+    font-family: 'Montserrat','Sans Serif';
+    text-align: center;
+    color:orangered
+}
+

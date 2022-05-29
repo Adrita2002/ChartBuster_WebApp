@@ -1,0 +1,31 @@
+.header{
+    padding:20px 0;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    top:0;
+    position:sticky;
+    width:100vw;
+    background-color: #000000;
+    z-index: 100;
+}
+.title{
+    height:70px;
+    padding:0 10px;
+}
+
+.title img{
+    height:100%;
+    width:100%;
+    cursor: pointer;
+}
+
+@media screen  and (max-width:500px){
+    .title{
+        height:40px;
+    }
+    .icon{
+        height:40px;
+        width:40px;
+    }
+}
