@@ -3,9 +3,9 @@
  ChartBuster is a web application built to provide movie recommendations to a user on the basis of their likes and tastes.
 
 ## Features
- 1. Recommendation of the most globally trending movies of the day along with display of their ratings.
- 2. Users can filter movies on the basis of their favourite genres.
- 3. Users can search for movies and provide star ratings and get movie recommendations on the basis of the ratings.
+ - Recommendation of the most globally trending movies of the day along with display of their ratings.
+ - Users can filter movies on the basis of their favourite genres.
+ - Users can search for movies and provide star ratings and get movie recommendations on the basis of the ratings.
 
 ## Recommendation Engine
 **Collaborative Filtering:**
@@ -22,6 +22,7 @@ Pearson Coefficient correlation is used to calculate the similarity between the 
 5. API Key:
   For using the api of TMDB, we need an API. The API key can be generated from here. 
   Documentation to generate  TMDB API Key: https://developers.themoviedb.org/3/getting-started/introduction
+  \
   Once generated, a .env file is to be created inside the client folder and add an environment variable with the name. REACT_APP_API_KEY and use the api key there     (The API key is required in the Components/Pages/Movies/Movies.js and Components/Pages/Trending/Trending.js in the ‘src’ folder)
 6. Start the client - `npm start`
 7. Move to server directory by - `cd server`
