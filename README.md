@@ -1,6 +1,7 @@
 # ChartBuster - Get Movie Recommendations
 ## Microsoft Engage 2022 Project - Track 3 (Algorithms)
- ChartBuster is a web application built to provide movie recommendations to a user on the basis of their likes and tastes.
+ ChartBuster is a web application built to provide movie recommendations to a user on the basis of their likes and tastes.\
+ Deployed website: [ChartBuster Website Link](http://d3gc94tyk5ub3g.cloudfront.net/)
 
 ## Features
  - Recommendation of the most globally trending movies of the day along with display of their ratings.
@@ -14,7 +15,7 @@ The primary recommendation technique that is used in the website is Collaborativ
 **Pearson Coefficient Correlation:**
 Pearson Coefficient correlation is used to calculate the similarity between the users and the items, i.e the movies. The Pearson correlation measures the strength of the linear relationship between two variables. It has a value between -1 to 1, with a value of -1 meaning a total negative linear correlation, 0 being no correlation, and + 1 meaning a total positive correlation.
 
-## How to Run
+## How to Run Locally
 1. Clone the repository - `git clone https://github.com/Adrita2002/ChartBuster_WebApp.git`
 2. Open the repository directory in your terminal.
 3. Move to client directory by - `cd client`
